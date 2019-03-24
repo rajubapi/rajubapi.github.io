@@ -3,7 +3,7 @@ layout: post
 title: "On the Importance of Understanding Consciousness"
 date: 2019-03-24
 ---
-The following is inspired by a March 13, 2019 post of Rich Sutton, [Bitter Truth](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
+The following is inspired by a March 13, 2019 post of Rich Sutton, [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
 One of the fundamental quests of human beings has been to understand themselves -- what is intelligence, what is consciousness, is there free will, how do thoughts and actions flow from the self, etc. One of the many ways of investigating these questions is through AI. I don't know if there is a branch of Philosophy that "understands-things-by-implementation" -- kind of like "learning-by-doing Philosophy of Mind". This was an implicit goal that suited Cognitive 
 Science to join hands with AI. AI is also happy thinking that brain/mind-inspired algorithms 
