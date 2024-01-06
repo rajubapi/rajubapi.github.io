@@ -18,12 +18,10 @@ by Depth-controlled search, statistical learning from huge cache of representati
 multi-criteria optimization, constraint satisfaction, stochastic search, etc might be more 
 suitable for silicon systems.
 
-What I see is that we are hitting a wall in AI with the human-mind-analogy and precisely this 
+What I see is that we are hitting a wall in AI with the human-mind analogy and precisely this 
 is what is good for Cognitive Science and Cognitive Psychology! All their theories of 
 cognition do not have any working notion of what it means for a human being to be "conscious". 
-Take any theory, for example, working memory and the limit of how many chunks of information 
-you can hold in your buffer. This theory does need any working definition of consciousness and 
-self-consciousness! Consequently, the same theory holds good for animals and humans, modulo 
+Take any theory, for example, working memory and the information bottleneck imposed by the limit of how many chunks of information  you can hold in your working memory buffer. This theory does NOT need any working definition of consciousness and self-consciousness! Consequently, the same theory would hold good for animals and humans, modulo 
 the complexity of the human system in terms of number of neurons and their connectivity. The 
 closest CogPsych got to is to throw in "attention" into the scheme of things. Who possesses 
 this attention and who directs it is not clear yet!
@@ -33,8 +31,7 @@ devices! As Rich Sutton suggests we are better off leaving machines to self-lear
 than incorporating strategies of how humans discover knowledge for themselves or insert 
 human-discovered-knowledge into machines. We can extend Rich Sutton's logic beyond search and 
 learning combined with (ever-increasing) computational resources (self-learning, computational 
-behemoths) as the foundations of machine intelligence to achieve human-level intelligence capabilities. Remember, machines evolve in 
-human minds but biological systems evolve in the real world. We need to let machines evolve in 
+behemoths) as the foundations of machine intelligence to achieve human-level intelligence capabilities. Remember, machines evolve in human minds but biological systems evolve in the real world. We need to let machines evolve in 
 the real world as well for us to see what is perhaps possible for them. It is not clear what 
 pressures forced living beings to develop consciousness and then conscious animals to develop 
 self-consciousness. This is probably the direction we can think of to understand and enforce 
